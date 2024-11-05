@@ -9,7 +9,7 @@ export default {
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
-        varela: ["Varrela round", "sans-serif"],
+        varela: ["Varela round", "sans-serif"],
       },
       container: {
         center: true,
