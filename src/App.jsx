@@ -2,6 +2,8 @@ import { UpdateFollower } from "react-mouse-follower";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Service from "./components/Service";
+import Banner from "./components/Banner";
+import BannerText from "./components/BannerText";
 
 const App = () => {
   return (
@@ -24,6 +26,8 @@ const App = () => {
         }}
       >
         <Service />
+        <Banner />
+        <BannerText />
       </UpdateFollower>
     </main>
   );
