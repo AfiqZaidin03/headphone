@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import Service from "./components/Service";
 import Banner from "./components/Banner";
 import BannerText from "./components/BannerText";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -28,6 +29,7 @@ const App = () => {
         <Service />
         <Banner />
         <BannerText />
+        <Footer />
       </UpdateFollower>
     </main>
   );
